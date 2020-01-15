@@ -1,4 +1,4 @@
-## Aim: to calculate the contamination rate from the simulated-data implementing the model implemented in our recent work https://doi.org/10.1093/bioinformatics/btz660)
+## Aim: to calculate the contamination rate from the simulated-data, implementing the model implemented in our recent work https://doi.org/10.1093/bioinformatics/btz660)
 
 
 
@@ -17,4 +17,4 @@ There are two steps:
 
 
 2. Calculating **likelihood** function using data from the first step followed by 
-   - **optimizing** it to get maximum likelihood estimates (mle) of contamination rate
+- **optimizing** it to get maximum likelihood estimates (mle) of contamination rate
