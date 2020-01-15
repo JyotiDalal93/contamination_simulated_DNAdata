@@ -18,3 +18,10 @@ There are two steps:
 
 2. Calculating **likelihood** function using data from the first step followed by 
 - **optimizing** it to get maximum likelihood estimates (mle) of contamination rate
+
+
+## Requirements:
+
+- Python
+
+:)
